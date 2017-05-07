@@ -15,8 +15,9 @@ The pushups levels will be divided in to ten levels.
  * Set reminder for Push Ups on daily,weekly and monthly
  * Supported various 15 Languages
 
+ 
+<a href="https://youtu.be/Ns2FFW1vYlY" target="_blank"> <img src="https://github.com/PransuInc/PushUpsworkout/blob/master/Final%20Mobile/screens-gif.gif" /></a> 
 
-![Screen Gif](https://github.com/PransuInc/PushUpsworkout/blob/master/Final%20Mobile/screens-gif.gif)
 #### Supported Languages :
 * English
 * Arabic
